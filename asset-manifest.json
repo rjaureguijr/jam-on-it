@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projects/jam-on-it/static/css/main.505404bf.chunk.css",
+    "main.js": "/projects/jam-on-it/static/js/main.0fdcc4f3.chunk.js",
+    "main.js.map": "/projects/jam-on-it/static/js/main.0fdcc4f3.chunk.js.map",
+    "runtime-main.js": "/projects/jam-on-it/static/js/runtime-main.95d0aaff.js",
+    "runtime-main.js.map": "/projects/jam-on-it/static/js/runtime-main.95d0aaff.js.map",
+    "static/js/2.b234d31b.chunk.js": "/projects/jam-on-it/static/js/2.b234d31b.chunk.js",
+    "static/js/2.b234d31b.chunk.js.map": "/projects/jam-on-it/static/js/2.b234d31b.chunk.js.map",
+    "index.html": "/projects/jam-on-it/index.html",
+    "precache-manifest.c64b1a2196ef2d5406c6b5d4c95df574.js": "/projects/jam-on-it/precache-manifest.c64b1a2196ef2d5406c6b5d4c95df574.js",
+    "service-worker.js": "/projects/jam-on-it/service-worker.js",
+    "static/css/main.505404bf.chunk.css.map": "/projects/jam-on-it/static/css/main.505404bf.chunk.css.map",
+    "static/js/2.b234d31b.chunk.js.LICENSE.txt": "/projects/jam-on-it/static/js/2.b234d31b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95d0aaff.js",
+    "static/js/2.b234d31b.chunk.js",
+    "static/css/main.505404bf.chunk.css",
+    "static/js/main.0fdcc4f3.chunk.js"
+  ]
+}
