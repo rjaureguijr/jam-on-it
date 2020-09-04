@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jam-on-it/static/css/main.87b142f5.chunk.css",
-    "main.js": "/jam-on-it/static/js/main.d4b16d0d.chunk.js",
-    "main.js.map": "/jam-on-it/static/js/main.d4b16d0d.chunk.js.map",
+    "main.js": "/jam-on-it/static/js/main.0a37f4e7.chunk.js",
+    "main.js.map": "/jam-on-it/static/js/main.0a37f4e7.chunk.js.map",
     "runtime-main.js": "/jam-on-it/static/js/runtime-main.13c622ae.js",
     "runtime-main.js.map": "/jam-on-it/static/js/runtime-main.13c622ae.js.map",
     "static/js/2.b234d31b.chunk.js": "/jam-on-it/static/js/2.b234d31b.chunk.js",
     "static/js/2.b234d31b.chunk.js.map": "/jam-on-it/static/js/2.b234d31b.chunk.js.map",
     "index.html": "/jam-on-it/index.html",
-    "precache-manifest.8c29f9897263e702e348bf45776dbb35.js": "/jam-on-it/precache-manifest.8c29f9897263e702e348bf45776dbb35.js",
+    "precache-manifest.bad50d0f1da53cb09f8c91f5c47d1b2d.js": "/jam-on-it/precache-manifest.bad50d0f1da53cb09f8c91f5c47d1b2d.js",
     "service-worker.js": "/jam-on-it/service-worker.js",
     "static/css/main.87b142f5.chunk.css.map": "/jam-on-it/static/css/main.87b142f5.chunk.css.map",
     "static/js/2.b234d31b.chunk.js.LICENSE.txt": "/jam-on-it/static/js/2.b234d31b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.13c622ae.js",
     "static/js/2.b234d31b.chunk.js",
     "static/css/main.87b142f5.chunk.css",
-    "static/js/main.d4b16d0d.chunk.js"
+    "static/js/main.0a37f4e7.chunk.js"
   ]
 }
